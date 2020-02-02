@@ -71,21 +71,24 @@ body {
     clear: both;
 }
 .menuBarContainer {
-    width: 1350;
+    width: auto;
     height: 60px;
     background-color: #BB1919;
     border-top: 1px #cccccc solid;
 }
 h1 {
     margin: 0;
-    padding: 0;
+    padding: 14.5%;
     color: white;
     font-weight: normal;
     margin-left: 145px;
     padding-top: 10px;
 }
+#jack {
+    padding-left: 14.5%;
+}
 .menuBarContainer2 {
-    width: 1350px;
+    width: auto;
     height: 42px;
     background-color: #A91717;
 }
@@ -124,6 +127,9 @@ h1 {
     width: 700px;
     float: left;
     padding-right: 20px;
+}
+#h11 {
+    padding-left: 0;
 }
 #mainArticleHr {
     width: 600px;
@@ -867,7 +873,7 @@ h1 a:hover {
     font-size: 14px;
 }
 #lastSection {
-    margin-left: 145px;
+    margin-left: 22%;
     width: 1050px;
     float: left;
 }
@@ -987,7 +993,7 @@ h1 a:hover {
     width: 247px;
 }
 #BBCServices {
-    width: 1350px;
+    width: 100%;
     background-color: #2F2F2F;
     float: left;
 }
@@ -1017,7 +1023,7 @@ h1 a:hover {
     text-decoration: underline;
 }
 #explore {
-    width: 1350px;
+    width: 100%;
     background-color: #4C4C4C;
     float: left;
     border-top: 1px solid #949494;
